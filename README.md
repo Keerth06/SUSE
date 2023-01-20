@@ -17,7 +17,7 @@ The application system crashed few times today (25th of August 2021) and we woul
 
 Data :
 
-Logs at https://github.com/moroniflores/suse/raw/master/nts_test-vm_210825_1616.txz
+Logs at https://github.com/tomashendrich/SUSE/raw/main/nts_test-vm_210825_1616.txz
 
 Relevant documentation:
 
